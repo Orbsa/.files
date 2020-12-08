@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/eric/.bash'
+let g:netrw_dirhist_2='/home/eric/.config/i3'
+let g:netrw_dirhist_3='/home/eric/.mutt'
+let g:netrw_dirhist_4='/home/eric/.oh-my-zsh/themes'
+let g:netrw_dirhist_5='/root/.bash'
