@@ -1,6 +1,5 @@
 alias eZ='vim ~/.alias.sh; source ~/.alias.sh'
 alias ssh='TERM=xterm ssh'
-alias sl='colorls -la'
 alias lh='ls -Ad .*'
 alias db='pgcli -h pg.orbsa.net -u thyrsos'
 alias i3c='vim ~/.config/i3/config'
