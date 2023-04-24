@@ -1,0 +1,29 @@
+-- local pywal = require('pywal')
+-- local fwatch = require('fwatch')
+-- 
+-- pywal.setup()
+-- 
+-- function Colors(color)
+    -- if color then
+        -- color = color or "pywal"
+        -- vim.api.nvim_command('colorscheme pywal')
+    -- else 
+        -- pywal.setup()    
+    -- end
+    -- vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
+	-- vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
+	-- vim.api.nvim_set_hl(0, "LineNr", { bg = "none" })
+	-- vim.api.nvim_set_hl(0, "LineNr", { bg = "none" })
+	-- vim.api.nvim_set_hl(0, "SignColumn", { bg = "none" })
+	-- vim.api.nvim_set_hl(0, "SignColumn", { bg = "none" })
+    -- vim.api.nvim_command('hi Normal guibg=NONE ctermbg=NONE')
+    -- vim.api.nvim_command('set cc=')
+-- end
+-- 
+-- fwatch.watch("/home/eric/.cache/wal/colors-wal.vim", {
+  -- on_event = vim.schedule_wrap(function()
+      -- Colors("pywal")
+    -- end)
+-- })
+
+-- Colors()
